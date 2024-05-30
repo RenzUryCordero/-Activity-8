@@ -1,0 +1,25 @@
+C:\Users\rizal\OneDrive\Documents\3rd year\2nd sem\APDEV\Cordero_Act4\GCASH\GCASH\bin\Debug\GCASH.exe.config
+C:\Users\rizal\OneDrive\Documents\3rd year\2nd sem\APDEV\Cordero_Act4\GCASH\GCASH\bin\Debug\GCASH.exe
+C:\Users\rizal\OneDrive\Documents\3rd year\2nd sem\APDEV\Cordero_Act4\GCASH\GCASH\bin\Debug\GCASH.pdb
+C:\Users\rizal\OneDrive\Documents\3rd year\2nd sem\APDEV\Cordero_Act4\GCASH\GCASH\obj\Debug\GCASH.csproj.AssemblyReference.cache
+C:\Users\rizal\OneDrive\Documents\3rd year\2nd sem\APDEV\Cordero_Act4\GCASH\GCASH\obj\Debug\GCASH.GCASH.resources
+C:\Users\rizal\OneDrive\Documents\3rd year\2nd sem\APDEV\Cordero_Act4\GCASH\GCASH\obj\Debug\GCASH.Properties.Resources.resources
+C:\Users\rizal\OneDrive\Documents\3rd year\2nd sem\APDEV\Cordero_Act4\GCASH\GCASH\obj\Debug\GCASH.csproj.GenerateResource.cache
+C:\Users\rizal\OneDrive\Documents\3rd year\2nd sem\APDEV\Cordero_Act4\GCASH\GCASH\obj\Debug\GCASH.csproj.CoreCompileInputs.cache
+C:\Users\rizal\OneDrive\Documents\3rd year\2nd sem\APDEV\Cordero_Act4\GCASH\GCASH\obj\Debug\GCASH.exe
+C:\Users\rizal\OneDrive\Documents\3rd year\2nd sem\APDEV\Cordero_Act4\GCASH\GCASH\obj\Debug\GCASH.pdb
+C:\Users\rizal\OneDrive\Documents\3rd year\2nd sem\APDEV\Cordero_Act4\GCASH\GCASH\obj\Debug\GCASH.Transaction.resources
+C:\Users\Jeddy\Downloads\GCASH\GCASH\obj\Debug\GCASH.csproj.AssemblyReference.cache
+C:\Users\Jeddy\Downloads\GCASH\GCASH\obj\Debug\GCASH.exe
+C:\Users\Jeddy\Downloads\GCASH\GCASH\obj\Debug\GCASH.pdb
+C:\Users\Jeddy\Downloads\GCASH\GCASH\bin\Debug\GCASH.exe.config
+C:\Users\Jeddy\Downloads\GCASH\GCASH\bin\Debug\GCASH.exe
+C:\Users\Jeddy\Downloads\GCASH\GCASH\bin\Debug\GCASH.pdb
+C:\Users\Jeddy\Downloads\GCASH\GCASH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeddy\Downloads\GCASH\GCASH\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeddy\Downloads\GCASH\GCASH\obj\Debug\GCASH.GCASH.resources
+C:\Users\Jeddy\Downloads\GCASH\GCASH\obj\Debug\GCASH.Transaction.resources
+C:\Users\Jeddy\Downloads\GCASH\GCASH\obj\Debug\GCASH.Properties.Resources.resources
+C:\Users\Jeddy\Downloads\GCASH\GCASH\obj\Debug\GCASH.csproj.GenerateResource.cache
+C:\Users\Jeddy\Downloads\GCASH\GCASH\obj\Debug\GCASH.csproj.CoreCompileInputs.cache
+C:\Users\Jeddy\Downloads\GCASH\GCASH\obj\Debug\GCASH.csproj.Up2Date
